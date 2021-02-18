@@ -1,0 +1,10 @@
+lib/
+
+# CMake stuff
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# executables
+test
